@@ -3,7 +3,7 @@ require "gem_test/version"
 module GemTest
   
   def self.foo
-    puts 12345
+    puts 123456
   end
   # Your code goes here...
   
